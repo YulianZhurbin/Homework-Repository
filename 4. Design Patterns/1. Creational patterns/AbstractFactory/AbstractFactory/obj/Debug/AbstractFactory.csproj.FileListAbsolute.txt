@@ -1,0 +1,7 @@
+E:\ЮВЖ\Programming\Ноmework\4.Patterns\Creational patterns\1. AbstractFactory\AbstractFactory\AbstractFactory\bin\Debug\AbstractFactory.exe.config
+E:\ЮВЖ\Programming\Ноmework\4.Patterns\Creational patterns\1. AbstractFactory\AbstractFactory\AbstractFactory\bin\Debug\AbstractFactory.exe
+E:\ЮВЖ\Programming\Ноmework\4.Patterns\Creational patterns\1. AbstractFactory\AbstractFactory\AbstractFactory\bin\Debug\AbstractFactory.pdb
+E:\ЮВЖ\Programming\Ноmework\4.Patterns\Creational patterns\1. AbstractFactory\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.csproj.AssemblyReference.cache
+E:\ЮВЖ\Programming\Ноmework\4.Patterns\Creational patterns\1. AbstractFactory\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.csproj.CoreCompileInputs.cache
+E:\ЮВЖ\Programming\Ноmework\4.Patterns\Creational patterns\1. AbstractFactory\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.exe
+E:\ЮВЖ\Programming\Ноmework\4.Patterns\Creational patterns\1. AbstractFactory\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.pdb

@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\205_Indexers\205_Task4\bin\Debug\205_Task4.exe.config
+C:\Users\user\source\repos\205_Indexers\205_Task4\bin\Debug\205_Task4.exe
+C:\Users\user\source\repos\205_Indexers\205_Task4\bin\Debug\205_Task4.pdb
+C:\Users\user\source\repos\205_Indexers\205_Task4\obj\Debug\205_Task4.csprojAssemblyReference.cache
+C:\Users\user\source\repos\205_Indexers\205_Task4\obj\Debug\205_Task4.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\205_Indexers\205_Task4\obj\Debug\205_Task4.exe
+C:\Users\user\source\repos\205_Indexers\205_Task4\obj\Debug\205_Task4.pdb

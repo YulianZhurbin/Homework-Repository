@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<Flat1 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <OverallArea>45.4</OverallArea>
+  <KitchenArea>10.3</KitchenArea>
+  <RoomNumber>2</RoomNumber>
+</Flat1>

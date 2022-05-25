@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\302_SystemCollections\302_Task2_Optimized\bin\Debug\302_Task2_Optimized.exe.config
+C:\Users\user\source\repos\302_SystemCollections\302_Task2_Optimized\bin\Debug\302_Task2_Optimized.exe
+C:\Users\user\source\repos\302_SystemCollections\302_Task2_Optimized\bin\Debug\302_Task2_Optimized.pdb
+C:\Users\user\source\repos\302_SystemCollections\302_Task2_Optimized\obj\Debug\302_Task2_Optimized.csprojAssemblyReference.cache
+C:\Users\user\source\repos\302_SystemCollections\302_Task2_Optimized\obj\Debug\302_Task2_Optimized.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\302_SystemCollections\302_Task2_Optimized\obj\Debug\302_Task2_Optimized.exe
+C:\Users\user\source\repos\302_SystemCollections\302_Task2_Optimized\obj\Debug\302_Task2_Optimized.pdb

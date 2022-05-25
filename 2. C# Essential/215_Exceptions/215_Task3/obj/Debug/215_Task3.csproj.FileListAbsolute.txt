@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\215_Exceptions\215_Task3\bin\Debug\215_Task3.exe.config
+C:\Users\user\source\repos\215_Exceptions\215_Task3\bin\Debug\215_Task3.exe
+C:\Users\user\source\repos\215_Exceptions\215_Task3\bin\Debug\215_Task3.pdb
+C:\Users\user\source\repos\215_Exceptions\215_Task3\obj\Debug\215_Task3.csprojAssemblyReference.cache
+C:\Users\user\source\repos\215_Exceptions\215_Task3\obj\Debug\215_Task3.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\215_Exceptions\215_Task3\obj\Debug\215_Task3.exe
+C:\Users\user\source\repos\215_Exceptions\215_Task3\obj\Debug\215_Task3.pdb

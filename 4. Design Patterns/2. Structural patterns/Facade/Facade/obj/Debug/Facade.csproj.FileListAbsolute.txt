@@ -1,0 +1,7 @@
+E:\ЮВЖ\Programming\Ноmework\4.Patterns\Structural patterns\Facade\Facade\bin\Debug\Facade.exe.config
+E:\ЮВЖ\Programming\Ноmework\4.Patterns\Structural patterns\Facade\Facade\bin\Debug\Facade.exe
+E:\ЮВЖ\Programming\Ноmework\4.Patterns\Structural patterns\Facade\Facade\bin\Debug\Facade.pdb
+E:\ЮВЖ\Programming\Ноmework\4.Patterns\Structural patterns\Facade\Facade\obj\Debug\Facade.csproj.AssemblyReference.cache
+E:\ЮВЖ\Programming\Ноmework\4.Patterns\Structural patterns\Facade\Facade\obj\Debug\Facade.csproj.CoreCompileInputs.cache
+E:\ЮВЖ\Programming\Ноmework\4.Patterns\Structural patterns\Facade\Facade\obj\Debug\Facade.exe
+E:\ЮВЖ\Programming\Ноmework\4.Patterns\Structural patterns\Facade\Facade\obj\Debug\Facade.pdb

@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\216_Operators\216_AdditionalTask\bin\Debug\216_AdditionalTask.exe.config
+C:\Users\user\source\repos\216_Operators\216_AdditionalTask\bin\Debug\216_AdditionalTask.exe
+C:\Users\user\source\repos\216_Operators\216_AdditionalTask\bin\Debug\216_AdditionalTask.pdb
+C:\Users\user\source\repos\216_Operators\216_AdditionalTask\obj\Debug\216_AdditionalTask.csprojAssemblyReference.cache
+C:\Users\user\source\repos\216_Operators\216_AdditionalTask\obj\Debug\216_AdditionalTask.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\216_Operators\216_AdditionalTask\obj\Debug\216_AdditionalTask.exe
+C:\Users\user\source\repos\216_Operators\216_AdditionalTask\obj\Debug\216_AdditionalTask.pdb

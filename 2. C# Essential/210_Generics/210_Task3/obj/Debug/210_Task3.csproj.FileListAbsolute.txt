@@ -1,0 +1,7 @@
+D:\MyPrograms\210_Generics\210_Task3\bin\Debug\210_Task3.exe.config
+D:\MyPrograms\210_Generics\210_Task3\bin\Debug\210_Task3.exe
+D:\MyPrograms\210_Generics\210_Task3\bin\Debug\210_Task3.pdb
+D:\MyPrograms\210_Generics\210_Task3\obj\Debug\210_Task3.csprojAssemblyReference.cache
+D:\MyPrograms\210_Generics\210_Task3\obj\Debug\210_Task3.csproj.CoreCompileInputs.cache
+D:\MyPrograms\210_Generics\210_Task3\obj\Debug\210_Task3.exe
+D:\MyPrograms\210_Generics\210_Task3\obj\Debug\210_Task3.pdb

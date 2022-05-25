@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\310_Versioning\310_Task2\bin\Debug\310_Task2.exe.config
+C:\Users\user\source\repos\310_Versioning\310_Task2\bin\Debug\310_Task2.exe
+C:\Users\user\source\repos\310_Versioning\310_Task2\bin\Debug\310_Task2.pdb
+C:\Users\user\source\repos\310_Versioning\310_Task2\obj\Debug\310_Task2.csprojAssemblyReference.cache
+C:\Users\user\source\repos\310_Versioning\310_Task2\obj\Debug\310_Task2.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\310_Versioning\310_Task2\obj\Debug\310_Task2.exe
+C:\Users\user\source\repos\310_Versioning\310_Task2\obj\Debug\310_Task2.pdb

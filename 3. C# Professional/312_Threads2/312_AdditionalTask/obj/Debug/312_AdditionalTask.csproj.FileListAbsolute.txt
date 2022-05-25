@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\312_Threads2\312_AdditionalTask\bin\Debug\312_AdditionalTask.exe.config
+C:\Users\user\source\repos\312_Threads2\312_AdditionalTask\bin\Debug\312_AdditionalTask.exe
+C:\Users\user\source\repos\312_Threads2\312_AdditionalTask\bin\Debug\312_AdditionalTask.pdb
+C:\Users\user\source\repos\312_Threads2\312_AdditionalTask\obj\Debug\312_AdditionalTask.csprojAssemblyReference.cache
+C:\Users\user\source\repos\312_Threads2\312_AdditionalTask\obj\Debug\312_AdditionalTask.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\312_Threads2\312_AdditionalTask\obj\Debug\312_AdditionalTask.exe
+C:\Users\user\source\repos\312_Threads2\312_AdditionalTask\obj\Debug\312_AdditionalTask.pdb

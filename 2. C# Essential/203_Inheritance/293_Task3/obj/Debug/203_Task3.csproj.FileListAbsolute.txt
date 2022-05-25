@@ -1,0 +1,7 @@
+D:\MyPrograms\203_Inheritance\293_Task3\bin\Debug\293_Task3.exe.config
+D:\MyPrograms\203_Inheritance\293_Task3\bin\Debug\293_Task3.exe
+D:\MyPrograms\203_Inheritance\293_Task3\bin\Debug\293_Task3.pdb
+D:\MyPrograms\203_Inheritance\293_Task3\obj\Debug\203_Task3.csproj.CoreCompileInputs.cache
+D:\MyPrograms\203_Inheritance\293_Task3\obj\Debug\293_Task3.exe
+D:\MyPrograms\203_Inheritance\293_Task3\obj\Debug\293_Task3.pdb
+D:\MyPrograms\203_Inheritance\293_Task3\obj\Debug\203_Task3.csprojAssemblyReference.cache

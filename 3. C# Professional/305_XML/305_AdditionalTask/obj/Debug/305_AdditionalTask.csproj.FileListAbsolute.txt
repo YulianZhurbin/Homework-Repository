@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\305_XML\305_AdditionalTask\bin\Debug\305_AdditionalTask.exe.config
+C:\Users\user\source\repos\305_XML\305_AdditionalTask\bin\Debug\305_AdditionalTask.exe
+C:\Users\user\source\repos\305_XML\305_AdditionalTask\bin\Debug\305_AdditionalTask.pdb
+C:\Users\user\source\repos\305_XML\305_AdditionalTask\obj\Debug\305_AdditionalTask.csprojAssemblyReference.cache
+C:\Users\user\source\repos\305_XML\305_AdditionalTask\obj\Debug\305_AdditionalTask.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\305_XML\305_AdditionalTask\obj\Debug\305_AdditionalTask.exe
+C:\Users\user\source\repos\305_XML\305_AdditionalTask\obj\Debug\305_AdditionalTask.pdb

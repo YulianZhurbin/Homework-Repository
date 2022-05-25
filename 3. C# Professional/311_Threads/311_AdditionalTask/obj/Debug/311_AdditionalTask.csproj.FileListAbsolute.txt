@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\311_Threads\311_AdditionalTask\bin\Debug\311_AdditionalTask.exe.config
+C:\Users\user\source\repos\311_Threads\311_AdditionalTask\bin\Debug\311_AdditionalTask.exe
+C:\Users\user\source\repos\311_Threads\311_AdditionalTask\bin\Debug\311_AdditionalTask.pdb
+C:\Users\user\source\repos\311_Threads\311_AdditionalTask\obj\Debug\311_AdditionalTask.csprojAssemblyReference.cache
+C:\Users\user\source\repos\311_Threads\311_AdditionalTask\obj\Debug\311_AdditionalTask.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\311_Threads\311_AdditionalTask\obj\Debug\311_AdditionalTask.exe
+C:\Users\user\source\repos\311_Threads\311_AdditionalTask\obj\Debug\311_AdditionalTask.pdb

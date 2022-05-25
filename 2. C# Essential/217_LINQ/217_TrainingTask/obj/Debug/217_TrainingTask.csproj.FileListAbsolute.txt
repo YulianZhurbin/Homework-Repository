@@ -1,0 +1,7 @@
+D:\MyPrograms\217_LINQ\217_TrainingTask\bin\Debug\217_TrainingTask.exe.config
+D:\MyPrograms\217_LINQ\217_TrainingTask\bin\Debug\217_TrainingTask.exe
+D:\MyPrograms\217_LINQ\217_TrainingTask\bin\Debug\217_TrainingTask.pdb
+D:\MyPrograms\217_LINQ\217_TrainingTask\obj\Debug\217_TrainingTask.csprojAssemblyReference.cache
+D:\MyPrograms\217_LINQ\217_TrainingTask\obj\Debug\217_TrainingTask.csproj.CoreCompileInputs.cache
+D:\MyPrograms\217_LINQ\217_TrainingTask\obj\Debug\217_TrainingTask.exe
+D:\MyPrograms\217_LINQ\217_TrainingTask\obj\Debug\217_TrainingTask.pdb

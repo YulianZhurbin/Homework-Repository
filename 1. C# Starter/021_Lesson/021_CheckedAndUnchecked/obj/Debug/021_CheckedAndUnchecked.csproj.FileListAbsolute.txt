@@ -1,0 +1,7 @@
+D:\MyProgram\021_Lesson\021_CheckedAndUnchecked\bin\Debug\021_CheckedAndUnchecked.exe.config
+D:\MyProgram\021_Lesson\021_CheckedAndUnchecked\bin\Debug\021_CheckedAndUnchecked.exe
+D:\MyProgram\021_Lesson\021_CheckedAndUnchecked\bin\Debug\021_CheckedAndUnchecked.pdb
+D:\MyProgram\021_Lesson\021_CheckedAndUnchecked\obj\Debug\021_CheckedAndUnchecked.csprojAssemblyReference.cache
+D:\MyProgram\021_Lesson\021_CheckedAndUnchecked\obj\Debug\021_CheckedAndUnchecked.csproj.CoreCompileInputs.cache
+D:\MyProgram\021_Lesson\021_CheckedAndUnchecked\obj\Debug\021_CheckedAndUnchecked.exe
+D:\MyProgram\021_Lesson\021_CheckedAndUnchecked\obj\Debug\021_CheckedAndUnchecked.pdb

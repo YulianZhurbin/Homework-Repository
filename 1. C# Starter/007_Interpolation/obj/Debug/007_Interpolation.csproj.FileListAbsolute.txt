@@ -1,0 +1,14 @@
+D:\MyProgram\007_Interpolation\bin\Debug\007_Interpolation.exe.config
+D:\MyProgram\007_Interpolation\bin\Debug\007_Interpolation.exe
+D:\MyProgram\007_Interpolation\bin\Debug\007_Interpolation.pdb
+D:\MyProgram\007_Interpolation\obj\Debug\007_Interpolation.csprojAssemblyReference.cache
+D:\MyProgram\007_Interpolation\obj\Debug\007_Interpolation.csproj.CoreCompileInputs.cache
+D:\MyProgram\007_Interpolation\obj\Debug\007_Interpolation.exe
+D:\MyProgram\007_Interpolation\obj\Debug\007_Interpolation.pdb
+C:\Julian\Git\HW\MyPrograms\007_Interpolation\bin\Debug\007_Interpolation.exe.config
+C:\Julian\Git\HW\MyPrograms\007_Interpolation\bin\Debug\007_Interpolation.exe
+C:\Julian\Git\HW\MyPrograms\007_Interpolation\bin\Debug\007_Interpolation.pdb
+C:\Julian\Git\HW\MyPrograms\007_Interpolation\obj\Debug\007_Interpolation.csproj.AssemblyReference.cache
+C:\Julian\Git\HW\MyPrograms\007_Interpolation\obj\Debug\007_Interpolation.csproj.CoreCompileInputs.cache
+C:\Julian\Git\HW\MyPrograms\007_Interpolation\obj\Debug\007_Interpolation.exe
+C:\Julian\Git\HW\MyPrograms\007_Interpolation\obj\Debug\007_Interpolation.pdb

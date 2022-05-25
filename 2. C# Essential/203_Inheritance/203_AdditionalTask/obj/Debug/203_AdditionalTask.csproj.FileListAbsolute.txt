@@ -1,0 +1,14 @@
+D:\MyPrograms\203_Inheritance\203_AdditionalTask\bin\Debug\203_AdditionalTask.exe.config
+D:\MyPrograms\203_Inheritance\203_AdditionalTask\bin\Debug\203_AdditionalTask.exe
+D:\MyPrograms\203_Inheritance\203_AdditionalTask\bin\Debug\203_AdditionalTask.pdb
+D:\MyPrograms\203_Inheritance\203_AdditionalTask\obj\Debug\203_AdditionalTask.csprojAssemblyReference.cache
+D:\MyPrograms\203_Inheritance\203_AdditionalTask\obj\Debug\203_AdditionalTask.csproj.CoreCompileInputs.cache
+D:\MyPrograms\203_Inheritance\203_AdditionalTask\obj\Debug\203_AdditionalTask.exe
+D:\MyPrograms\203_Inheritance\203_AdditionalTask\obj\Debug\203_AdditionalTask.pdb
+C:\Julian\Git\HW\MyPrograms\Homework C# Essential\203_Inheritance\203_AdditionalTask\bin\Debug\203_AdditionalTask.exe.config
+C:\Julian\Git\HW\MyPrograms\Homework C# Essential\203_Inheritance\203_AdditionalTask\bin\Debug\203_AdditionalTask.exe
+C:\Julian\Git\HW\MyPrograms\Homework C# Essential\203_Inheritance\203_AdditionalTask\bin\Debug\203_AdditionalTask.pdb
+C:\Julian\Git\HW\MyPrograms\Homework C# Essential\203_Inheritance\203_AdditionalTask\obj\Debug\203_AdditionalTask.csproj.AssemblyReference.cache
+C:\Julian\Git\HW\MyPrograms\Homework C# Essential\203_Inheritance\203_AdditionalTask\obj\Debug\203_AdditionalTask.csproj.CoreCompileInputs.cache
+C:\Julian\Git\HW\MyPrograms\Homework C# Essential\203_Inheritance\203_AdditionalTask\obj\Debug\203_AdditionalTask.exe
+C:\Julian\Git\HW\MyPrograms\Homework C# Essential\203_Inheritance\203_AdditionalTask\obj\Debug\203_AdditionalTask.pdb

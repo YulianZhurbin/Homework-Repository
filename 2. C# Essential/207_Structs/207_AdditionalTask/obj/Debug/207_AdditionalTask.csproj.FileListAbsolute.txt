@@ -1,0 +1,7 @@
+D:\MyPrograms\207_Structs\207_AdditionalTask\bin\Debug\207_AdditionalTask.exe.config
+D:\MyPrograms\207_Structs\207_AdditionalTask\bin\Debug\207_AdditionalTask.exe
+D:\MyPrograms\207_Structs\207_AdditionalTask\bin\Debug\207_AdditionalTask.pdb
+D:\MyPrograms\207_Structs\207_AdditionalTask\obj\Debug\207_AdditionalTask.csprojAssemblyReference.cache
+D:\MyPrograms\207_Structs\207_AdditionalTask\obj\Debug\207_AdditionalTask.csproj.CoreCompileInputs.cache
+D:\MyPrograms\207_Structs\207_AdditionalTask\obj\Debug\207_AdditionalTask.exe
+D:\MyPrograms\207_Structs\207_AdditionalTask\obj\Debug\207_AdditionalTask.pdb

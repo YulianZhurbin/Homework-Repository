@@ -1,0 +1,7 @@
+D:\MyProgram\001_NumericOperations\bin\Debug\001_NumericOperations.exe.config
+D:\MyProgram\001_NumericOperations\bin\Debug\001_NumericOperations.exe
+D:\MyProgram\001_NumericOperations\bin\Debug\001_NumericOperations.pdb
+D:\MyProgram\001_NumericOperations\obj\Debug\001_NumericOperations.csprojAssemblyReference.cache
+D:\MyProgram\001_NumericOperations\obj\Debug\001_NumericOperations.csproj.CoreCompileInputs.cache
+D:\MyProgram\001_NumericOperations\obj\Debug\001_NumericOperations.exe
+D:\MyProgram\001_NumericOperations\obj\Debug\001_NumericOperations.pdb

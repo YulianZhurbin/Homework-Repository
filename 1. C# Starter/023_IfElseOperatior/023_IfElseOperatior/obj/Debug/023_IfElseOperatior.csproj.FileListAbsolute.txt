@@ -1,0 +1,7 @@
+D:\MyProgram\023_IfElseOperatior\023_IfElseOperatior\bin\Debug\023_IfElseOperatior.exe.config
+D:\MyProgram\023_IfElseOperatior\023_IfElseOperatior\bin\Debug\023_IfElseOperatior.exe
+D:\MyProgram\023_IfElseOperatior\023_IfElseOperatior\bin\Debug\023_IfElseOperatior.pdb
+D:\MyProgram\023_IfElseOperatior\023_IfElseOperatior\obj\Debug\023_IfElseOperatior.csprojAssemblyReference.cache
+D:\MyProgram\023_IfElseOperatior\023_IfElseOperatior\obj\Debug\023_IfElseOperatior.csproj.CoreCompileInputs.cache
+D:\MyProgram\023_IfElseOperatior\023_IfElseOperatior\obj\Debug\023_IfElseOperatior.exe
+D:\MyProgram\023_IfElseOperatior\023_IfElseOperatior\obj\Debug\023_IfElseOperatior.pdb

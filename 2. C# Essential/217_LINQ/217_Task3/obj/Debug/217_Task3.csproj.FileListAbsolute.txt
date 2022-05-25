@@ -1,0 +1,7 @@
+D:\MyPrograms\217_LINQ\217_Task3\bin\Debug\217_Task3.exe.config
+D:\MyPrograms\217_LINQ\217_Task3\bin\Debug\217_Task3.exe
+D:\MyPrograms\217_LINQ\217_Task3\bin\Debug\217_Task3.pdb
+D:\MyPrograms\217_LINQ\217_Task3\obj\Debug\217_Task3.csprojAssemblyReference.cache
+D:\MyPrograms\217_LINQ\217_Task3\obj\Debug\217_Task3.csproj.CoreCompileInputs.cache
+D:\MyPrograms\217_LINQ\217_Task3\obj\Debug\217_Task3.exe
+D:\MyPrograms\217_LINQ\217_Task3\obj\Debug\217_Task3.pdb

@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\204_AbstractClasses\204_AdditionalTask\bin\Debug\204_AdditionalTask.exe.config
+C:\Users\user\source\repos\204_AbstractClasses\204_AdditionalTask\bin\Debug\204_AdditionalTask.exe
+C:\Users\user\source\repos\204_AbstractClasses\204_AdditionalTask\bin\Debug\204_AdditionalTask.pdb
+C:\Users\user\source\repos\204_AbstractClasses\204_AdditionalTask\obj\Debug\204_AdditionalTask.csprojAssemblyReference.cache
+C:\Users\user\source\repos\204_AbstractClasses\204_AdditionalTask\obj\Debug\204_AdditionalTask.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\204_AbstractClasses\204_AdditionalTask\obj\Debug\204_AdditionalTask.exe
+C:\Users\user\source\repos\204_AbstractClasses\204_AdditionalTask\obj\Debug\204_AdditionalTask.pdb

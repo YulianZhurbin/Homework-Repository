@@ -1,0 +1,7 @@
+D:\MyProgram\010_Conversions\bin\Debug\010_Conversions.exe.config
+D:\MyProgram\010_Conversions\bin\Debug\010_Conversions.exe
+D:\MyProgram\010_Conversions\bin\Debug\010_Conversions.pdb
+D:\MyProgram\010_Conversions\obj\Debug\010_Conversions.csprojAssemblyReference.cache
+D:\MyProgram\010_Conversions\obj\Debug\010_Conversions.csproj.CoreCompileInputs.cache
+D:\MyProgram\010_Conversions\obj\Debug\010_Conversions.exe
+D:\MyProgram\010_Conversions\obj\Debug\010_Conversions.pdb

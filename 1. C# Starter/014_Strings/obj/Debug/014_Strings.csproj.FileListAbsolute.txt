@@ -1,0 +1,7 @@
+D:\MyProgram\014_Strings\bin\Debug\014_Strings.exe.config
+D:\MyProgram\014_Strings\bin\Debug\014_Strings.exe
+D:\MyProgram\014_Strings\bin\Debug\014_Strings.pdb
+D:\MyProgram\014_Strings\obj\Debug\014_Strings.csprojAssemblyReference.cache
+D:\MyProgram\014_Strings\obj\Debug\014_Strings.csproj.CoreCompileInputs.cache
+D:\MyProgram\014_Strings\obj\Debug\014_Strings.exe
+D:\MyProgram\014_Strings\obj\Debug\014_Strings.pdb

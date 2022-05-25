@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\304_TextWork\304_AdditionalTask\bin\Debug\304_AdditionalTask.exe.config
+C:\Users\user\source\repos\304_TextWork\304_AdditionalTask\bin\Debug\304_AdditionalTask.exe
+C:\Users\user\source\repos\304_TextWork\304_AdditionalTask\bin\Debug\304_AdditionalTask.pdb
+C:\Users\user\source\repos\304_TextWork\304_AdditionalTask\obj\Debug\304_AdditionalTask.csprojAssemblyReference.cache
+C:\Users\user\source\repos\304_TextWork\304_AdditionalTask\obj\Debug\304_AdditionalTask.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\304_TextWork\304_AdditionalTask\obj\Debug\304_AdditionalTask.exe
+C:\Users\user\source\repos\304_TextWork\304_AdditionalTask\obj\Debug\304_AdditionalTask.pdb

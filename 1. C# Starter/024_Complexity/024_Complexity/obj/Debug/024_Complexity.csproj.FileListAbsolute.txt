@@ -1,0 +1,7 @@
+D:\MyProgram\024_Complexity\024_Complexity\bin\Debug\024_Complexity.exe.config
+D:\MyProgram\024_Complexity\024_Complexity\bin\Debug\024_Complexity.exe
+D:\MyProgram\024_Complexity\024_Complexity\bin\Debug\024_Complexity.pdb
+D:\MyProgram\024_Complexity\024_Complexity\obj\Debug\024_Complexity.csprojAssemblyReference.cache
+D:\MyProgram\024_Complexity\024_Complexity\obj\Debug\024_Complexity.csproj.CoreCompileInputs.cache
+D:\MyProgram\024_Complexity\024_Complexity\obj\Debug\024_Complexity.exe
+D:\MyProgram\024_Complexity\024_Complexity\obj\Debug\024_Complexity.pdb

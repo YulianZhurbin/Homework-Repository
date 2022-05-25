@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\211_GenericConstraints\211_AdditionalTask\bin\Debug\211_AdditionalTask.exe.config
+C:\Users\user\source\repos\211_GenericConstraints\211_AdditionalTask\bin\Debug\211_AdditionalTask.exe
+C:\Users\user\source\repos\211_GenericConstraints\211_AdditionalTask\bin\Debug\211_AdditionalTask.pdb
+C:\Users\user\source\repos\211_GenericConstraints\211_AdditionalTask\obj\Debug\211_AdditionalTask.csprojAssemblyReference.cache
+C:\Users\user\source\repos\211_GenericConstraints\211_AdditionalTask\obj\Debug\211_AdditionalTask.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\211_GenericConstraints\211_AdditionalTask\obj\Debug\211_AdditionalTask.exe
+C:\Users\user\source\repos\211_GenericConstraints\211_AdditionalTask\obj\Debug\211_AdditionalTask.pdb

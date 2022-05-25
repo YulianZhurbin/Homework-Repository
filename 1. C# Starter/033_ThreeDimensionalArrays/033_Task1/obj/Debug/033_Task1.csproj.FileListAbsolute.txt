@@ -1,0 +1,7 @@
+D:\MyPrograms\033_ThreeDimensionalArrays\033_Task1\bin\Debug\033_Task1.exe.config
+D:\MyPrograms\033_ThreeDimensionalArrays\033_Task1\bin\Debug\033_Task1.exe
+D:\MyPrograms\033_ThreeDimensionalArrays\033_Task1\bin\Debug\033_Task1.pdb
+D:\MyPrograms\033_ThreeDimensionalArrays\033_Task1\obj\Debug\033_Task1.csprojAssemblyReference.cache
+D:\MyPrograms\033_ThreeDimensionalArrays\033_Task1\obj\Debug\033_Task1.csproj.CoreCompileInputs.cache
+D:\MyPrograms\033_ThreeDimensionalArrays\033_Task1\obj\Debug\033_Task1.exe
+D:\MyPrograms\033_ThreeDimensionalArrays\033_Task1\obj\Debug\033_Task1.pdb

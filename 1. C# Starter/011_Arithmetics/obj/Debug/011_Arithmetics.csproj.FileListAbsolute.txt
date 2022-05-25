@@ -1,0 +1,7 @@
+D:\MyProgram\011_Arithmetics\bin\Debug\011_Arithmetics.exe.config
+D:\MyProgram\011_Arithmetics\bin\Debug\011_Arithmetics.exe
+D:\MyProgram\011_Arithmetics\bin\Debug\011_Arithmetics.pdb
+D:\MyProgram\011_Arithmetics\obj\Debug\011_Arithmetics.csproj.CoreCompileInputs.cache
+D:\MyProgram\011_Arithmetics\obj\Debug\011_Arithmetics.exe
+D:\MyProgram\011_Arithmetics\obj\Debug\011_Arithmetics.pdb
+D:\MyProgram\011_Arithmetics\obj\Debug\011_Arithmetics.csprojAssemblyReference.cache

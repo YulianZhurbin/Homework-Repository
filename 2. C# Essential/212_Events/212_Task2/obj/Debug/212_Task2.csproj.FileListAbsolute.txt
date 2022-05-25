@@ -1,0 +1,11 @@
+D:\MyPrograms\212_Events\212_Task2\bin\Debug\212_Task2.exe.config
+D:\MyPrograms\212_Events\212_Task2\bin\Debug\212_Task2.exe
+D:\MyPrograms\212_Events\212_Task2\bin\Debug\212_Task2.pdb
+D:\MyPrograms\212_Events\212_Task2\bin\Debug\Microsoft.Owin.dll
+D:\MyPrograms\212_Events\212_Task2\bin\Debug\Owin.dll
+D:\MyPrograms\212_Events\212_Task2\bin\Debug\Microsoft.Owin.xml
+D:\MyPrograms\212_Events\212_Task2\obj\Debug\212_Task2.csprojAssemblyReference.cache
+D:\MyPrograms\212_Events\212_Task2\obj\Debug\212_Task2.csproj.CoreCompileInputs.cache
+D:\MyPrograms\212_Events\212_Task2\obj\Debug\212_Task2.csproj.CopyComplete
+D:\MyPrograms\212_Events\212_Task2\obj\Debug\212_Task2.exe
+D:\MyPrograms\212_Events\212_Task2\obj\Debug\212_Task2.pdb

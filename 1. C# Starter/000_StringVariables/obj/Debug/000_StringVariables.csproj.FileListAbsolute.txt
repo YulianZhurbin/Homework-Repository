@@ -1,0 +1,7 @@
+D:\MyProgram\000_StringVariables\obj\Debug\000_StringVariables.csprojAssemblyReference.cache
+D:\MyProgram\000_StringVariables\obj\Debug\000_StringVariables.csproj.CoreCompileInputs.cache
+D:\MyProgram\000_StringVariables\bin\Debug\000_StringVariables.exe.config
+D:\MyProgram\000_StringVariables\bin\Debug\000_StringVariables.exe
+D:\MyProgram\000_StringVariables\bin\Debug\000_StringVariables.pdb
+D:\MyProgram\000_StringVariables\obj\Debug\000_StringVariables.exe
+D:\MyProgram\000_StringVariables\obj\Debug\000_StringVariables.pdb

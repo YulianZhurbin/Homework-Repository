@@ -1,0 +1,7 @@
+D:\MyPrograms\032_TwoDimensionalArrays\Task1\bin\Debug\Task1.exe.config
+D:\MyPrograms\032_TwoDimensionalArrays\Task1\bin\Debug\Task1.exe
+D:\MyPrograms\032_TwoDimensionalArrays\Task1\bin\Debug\Task1.pdb
+D:\MyPrograms\032_TwoDimensionalArrays\Task1\obj\Debug\Task1.csprojAssemblyReference.cache
+D:\MyPrograms\032_TwoDimensionalArrays\Task1\obj\Debug\Task1.csproj.CoreCompileInputs.cache
+D:\MyPrograms\032_TwoDimensionalArrays\Task1\obj\Debug\Task1.exe
+D:\MyPrograms\032_TwoDimensionalArrays\Task1\obj\Debug\Task1.pdb

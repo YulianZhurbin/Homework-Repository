@@ -1,0 +1,6 @@
+D:\MyPrograms\218_Namespaces\218_MyLibrary\bin\Debug\218_MyLibrary.dll
+D:\MyPrograms\218_Namespaces\218_MyLibrary\bin\Debug\218_MyLibrary.pdb
+D:\MyPrograms\218_Namespaces\218_MyLibrary\obj\Debug\218_MyLibrary.csproj.CoreCompileInputs.cache
+D:\MyPrograms\218_Namespaces\218_MyLibrary\obj\Debug\218_MyLibrary.dll
+D:\MyPrograms\218_Namespaces\218_MyLibrary\obj\Debug\218_MyLibrary.pdb
+D:\MyPrograms\218_Namespaces\218_MyLibrary\obj\Debug\218_MyLibrary.csprojAssemblyReference.cache

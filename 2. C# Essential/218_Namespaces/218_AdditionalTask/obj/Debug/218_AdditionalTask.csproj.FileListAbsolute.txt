@@ -1,0 +1,12 @@
+D:\MyPrograms\218_Namespaces\218_AdditionalTask\obj\Debug\218_AdditionalTask.csprojAssemblyReference.cache
+D:\MyPrograms\218_Namespaces\218_AdditionalTask\obj\Debug\218_AdditionalTask.csproj.CoreCompileInputs.cache
+D:\MyPrograms\218_Namespaces\218_AdditionalTask\bin\Debug\218_AdditionalTask.exe.config
+D:\MyPrograms\218_Namespaces\218_AdditionalTask\bin\Debug\218_AdditionalTask.exe
+D:\MyPrograms\218_Namespaces\218_AdditionalTask\bin\Debug\218_AdditionalTask.pdb
+D:\MyPrograms\218_Namespaces\218_AdditionalTask\bin\Debug\218_MyLibrary.dll
+D:\MyPrograms\218_Namespaces\218_AdditionalTask\bin\Debug\218_MyLibrary.pdb
+D:\MyPrograms\218_Namespaces\218_AdditionalTask\obj\Debug\218_AdditionalTask.csproj.CopyComplete
+D:\MyPrograms\218_Namespaces\218_AdditionalTask\obj\Debug\218_AdditionalTask.exe
+D:\MyPrograms\218_Namespaces\218_AdditionalTask\obj\Debug\218_AdditionalTask.pdb
+D:\MyPrograms\218_Namespaces\218_AdditionalTask\bin\Debug\218_MyLibrary_OutTheProject.dll
+D:\MyPrograms\218_Namespaces\218_AdditionalTask\bin\Debug\218_MyLibrary_OutTheProject.pdb

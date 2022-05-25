@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\214_Collections\214_TrainingTask\bin\Debug\214_TrainingTask.exe.config
+C:\Users\user\source\repos\214_Collections\214_TrainingTask\bin\Debug\214_TrainingTask.exe
+C:\Users\user\source\repos\214_Collections\214_TrainingTask\bin\Debug\214_TrainingTask.pdb
+C:\Users\user\source\repos\214_Collections\214_TrainingTask\obj\Debug\214_TrainingTask.csprojAssemblyReference.cache
+C:\Users\user\source\repos\214_Collections\214_TrainingTask\obj\Debug\214_TrainingTask.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\214_Collections\214_TrainingTask\obj\Debug\214_TrainingTask.exe
+C:\Users\user\source\repos\214_Collections\214_TrainingTask\obj\Debug\214_TrainingTask.pdb

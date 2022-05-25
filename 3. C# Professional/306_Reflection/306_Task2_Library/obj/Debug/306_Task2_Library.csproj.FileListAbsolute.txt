@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\306_Reflection\306_Task2_Library\bin\Debug\306_Task2_Library.dll
+C:\Users\user\source\repos\306_Reflection\306_Task2_Library\bin\Debug\306_Task2_Library.pdb
+C:\Users\user\source\repos\306_Reflection\306_Task2_Library\obj\Debug\306_Task2_Library.csprojAssemblyReference.cache
+C:\Users\user\source\repos\306_Reflection\306_Task2_Library\obj\Debug\306_Task2_Library.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\306_Reflection\306_Task2_Library\obj\Debug\306_Task2_Library.dll
+C:\Users\user\source\repos\306_Reflection\306_Task2_Library\obj\Debug\306_Task2_Library.pdb

@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\315_AsyncAwait\315_AdditionalTask\bin\Debug\315_AdditionalTask.exe.config
+C:\Users\user\source\repos\315_AsyncAwait\315_AdditionalTask\bin\Debug\315_AdditionalTask.exe
+C:\Users\user\source\repos\315_AsyncAwait\315_AdditionalTask\bin\Debug\315_AdditionalTask.pdb
+C:\Users\user\source\repos\315_AsyncAwait\315_AdditionalTask\obj\Debug\315_AdditionalTask.csprojAssemblyReference.cache
+C:\Users\user\source\repos\315_AsyncAwait\315_AdditionalTask\obj\Debug\315_AdditionalTask.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\315_AsyncAwait\315_AdditionalTask\obj\Debug\315_AdditionalTask.exe
+C:\Users\user\source\repos\315_AsyncAwait\315_AdditionalTask\obj\Debug\315_AdditionalTask.pdb

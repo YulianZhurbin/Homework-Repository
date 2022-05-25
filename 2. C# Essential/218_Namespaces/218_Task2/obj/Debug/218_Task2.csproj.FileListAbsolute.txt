@@ -1,0 +1,10 @@
+D:\MyPrograms\218_Namespaces\218_Task2\bin\Debug\218_Task2.exe.config
+D:\MyPrograms\218_Namespaces\218_Task2\bin\Debug\218_Task2.exe
+D:\MyPrograms\218_Namespaces\218_Task2\bin\Debug\218_Task2.pdb
+D:\MyPrograms\218_Namespaces\218_Task2\bin\Debug\218_Task2_Library.dll
+D:\MyPrograms\218_Namespaces\218_Task2\bin\Debug\218_Task2_Library.pdb
+D:\MyPrograms\218_Namespaces\218_Task2\obj\Debug\218_Task2.csprojAssemblyReference.cache
+D:\MyPrograms\218_Namespaces\218_Task2\obj\Debug\218_Task2.csproj.CoreCompileInputs.cache
+D:\MyPrograms\218_Namespaces\218_Task2\obj\Debug\218_Task2.csproj.CopyComplete
+D:\MyPrograms\218_Namespaces\218_Task2\obj\Debug\218_Task2.exe
+D:\MyPrograms\218_Namespaces\218_Task2\obj\Debug\218_Task2.pdb

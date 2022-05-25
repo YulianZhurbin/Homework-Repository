@@ -1,0 +1,14 @@
+D:\MyProgram\012_ArithmeticsOperations\bin\Debug\012_ArithmeticsOperations.exe.config
+D:\MyProgram\012_ArithmeticsOperations\bin\Debug\012_ArithmeticsOperations.exe
+D:\MyProgram\012_ArithmeticsOperations\bin\Debug\012_ArithmeticsOperations.pdb
+D:\MyProgram\012_ArithmeticsOperations\obj\Debug\012_ArithmeticsOperations.csprojAssemblyReference.cache
+D:\MyProgram\012_ArithmeticsOperations\obj\Debug\012_ArithmeticsOperations.csproj.CoreCompileInputs.cache
+D:\MyProgram\012_ArithmeticsOperations\obj\Debug\012_ArithmeticsOperations.exe
+D:\MyProgram\012_ArithmeticsOperations\obj\Debug\012_ArithmeticsOperations.pdb
+C:\Julian\Programming\Ноmework\1.C#\MyPrograms\012_ArithmeticsOperations\bin\Debug\012_ArithmeticsOperations.exe.config
+C:\Julian\Programming\Ноmework\1.C#\MyPrograms\012_ArithmeticsOperations\bin\Debug\012_ArithmeticsOperations.exe
+C:\Julian\Programming\Ноmework\1.C#\MyPrograms\012_ArithmeticsOperations\bin\Debug\012_ArithmeticsOperations.pdb
+C:\Julian\Programming\Ноmework\1.C#\MyPrograms\012_ArithmeticsOperations\obj\Debug\012_ArithmeticsOperations.csproj.AssemblyReference.cache
+C:\Julian\Programming\Ноmework\1.C#\MyPrograms\012_ArithmeticsOperations\obj\Debug\012_ArithmeticsOperations.csproj.CoreCompileInputs.cache
+C:\Julian\Programming\Ноmework\1.C#\MyPrograms\012_ArithmeticsOperations\obj\Debug\012_ArithmeticsOperations.exe
+C:\Julian\Programming\Ноmework\1.C#\MyPrograms\012_ArithmeticsOperations\obj\Debug\012_ArithmeticsOperations.pdb

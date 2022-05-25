@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\307_Attribute\307_AdditionalTask\bin\Debug\307_AdditionalTask.exe.config
+C:\Users\user\source\repos\307_Attribute\307_AdditionalTask\bin\Debug\307_AdditionalTask.exe
+C:\Users\user\source\repos\307_Attribute\307_AdditionalTask\bin\Debug\307_AdditionalTask.pdb
+C:\Users\user\source\repos\307_Attribute\307_AdditionalTask\obj\Debug\307_AdditionalTask.csprojAssemblyReference.cache
+C:\Users\user\source\repos\307_Attribute\307_AdditionalTask\obj\Debug\307_AdditionalTask.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\307_Attribute\307_AdditionalTask\obj\Debug\307_AdditionalTask.exe
+C:\Users\user\source\repos\307_Attribute\307_AdditionalTask\obj\Debug\307_AdditionalTask.pdb

@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\302_SystemCollections\302_AdditionalTask\bin\Debug\302_AdditionalTask.exe.config
+C:\Users\user\source\repos\302_SystemCollections\302_AdditionalTask\bin\Debug\302_AdditionalTask.exe
+C:\Users\user\source\repos\302_SystemCollections\302_AdditionalTask\bin\Debug\302_AdditionalTask.pdb
+C:\Users\user\source\repos\302_SystemCollections\302_AdditionalTask\obj\Debug\302_AdditionalTask.csprojAssemblyReference.cache
+C:\Users\user\source\repos\302_SystemCollections\302_AdditionalTask\obj\Debug\302_AdditionalTask.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\302_SystemCollections\302_AdditionalTask\obj\Debug\302_AdditionalTask.exe
+C:\Users\user\source\repos\302_SystemCollections\302_AdditionalTask\obj\Debug\302_AdditionalTask.pdb

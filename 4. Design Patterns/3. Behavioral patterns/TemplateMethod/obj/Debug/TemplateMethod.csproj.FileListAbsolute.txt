@@ -1,0 +1,7 @@
+C:\Julian\Programming\Ноmework\4.Patterns\Behavioral patterns\TemplateMethod\bin\Debug\TemplateMethod.exe.config
+C:\Julian\Programming\Ноmework\4.Patterns\Behavioral patterns\TemplateMethod\bin\Debug\TemplateMethod.exe
+C:\Julian\Programming\Ноmework\4.Patterns\Behavioral patterns\TemplateMethod\bin\Debug\TemplateMethod.pdb
+C:\Julian\Programming\Ноmework\4.Patterns\Behavioral patterns\TemplateMethod\obj\Debug\TemplateMethod.csproj.AssemblyReference.cache
+C:\Julian\Programming\Ноmework\4.Patterns\Behavioral patterns\TemplateMethod\obj\Debug\TemplateMethod.csproj.CoreCompileInputs.cache
+C:\Julian\Programming\Ноmework\4.Patterns\Behavioral patterns\TemplateMethod\obj\Debug\TemplateMethod.exe
+C:\Julian\Programming\Ноmework\4.Patterns\Behavioral patterns\TemplateMethod\obj\Debug\TemplateMethod.pdb

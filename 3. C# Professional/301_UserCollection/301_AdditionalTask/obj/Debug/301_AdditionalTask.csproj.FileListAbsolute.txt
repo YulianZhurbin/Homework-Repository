@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\301_UserCollection\301_AdditionalTask\bin\Debug\301_AdditionalTask.exe.config
+C:\Users\user\source\repos\301_UserCollection\301_AdditionalTask\bin\Debug\301_AdditionalTask.exe
+C:\Users\user\source\repos\301_UserCollection\301_AdditionalTask\bin\Debug\301_AdditionalTask.pdb
+C:\Users\user\source\repos\301_UserCollection\301_AdditionalTask\obj\Debug\301_AdditionalTask.csprojAssemblyReference.cache
+C:\Users\user\source\repos\301_UserCollection\301_AdditionalTask\obj\Debug\301_AdditionalTask.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\301_UserCollection\301_AdditionalTask\obj\Debug\301_AdditionalTask.exe
+C:\Users\user\source\repos\301_UserCollection\301_AdditionalTask\obj\Debug\301_AdditionalTask.pdb

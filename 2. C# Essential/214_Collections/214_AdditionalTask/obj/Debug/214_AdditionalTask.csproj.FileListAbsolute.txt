@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\214_Collections\214_AdditionalTask\bin\Debug\214_AdditionalTask.exe.config
+C:\Users\user\source\repos\214_Collections\214_AdditionalTask\bin\Debug\214_AdditionalTask.exe
+C:\Users\user\source\repos\214_Collections\214_AdditionalTask\bin\Debug\214_AdditionalTask.pdb
+C:\Users\user\source\repos\214_Collections\214_AdditionalTask\obj\Debug\214_AdditionalTask.csprojAssemblyReference.cache
+C:\Users\user\source\repos\214_Collections\214_AdditionalTask\obj\Debug\214_AdditionalTask.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\214_Collections\214_AdditionalTask\obj\Debug\214_AdditionalTask.exe
+C:\Users\user\source\repos\214_Collections\214_AdditionalTask\obj\Debug\214_AdditionalTask.pdb

@@ -1,0 +1,7 @@
+D:\MyProgram\003_AverageTemperature\bin\Debug\003_AverageTemperature.exe.config
+D:\MyProgram\003_AverageTemperature\bin\Debug\003_AverageTemperature.exe
+D:\MyProgram\003_AverageTemperature\bin\Debug\003_AverageTemperature.pdb
+D:\MyProgram\003_AverageTemperature\obj\Debug\003_AverageTemperature.csprojAssemblyReference.cache
+D:\MyProgram\003_AverageTemperature\obj\Debug\003_AverageTemperature.csproj.CoreCompileInputs.cache
+D:\MyProgram\003_AverageTemperature\obj\Debug\003_AverageTemperature.exe
+D:\MyProgram\003_AverageTemperature\obj\Debug\003_AverageTemperature.pdb

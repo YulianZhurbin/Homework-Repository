@@ -1,0 +1,2 @@
+D:\MyPrograms\203_Inheritance\203_Task2\obj\Debug\203_Task2.csprojAssemblyReference.cache
+D:\MyPrograms\203_Inheritance\203_Task2\obj\Debug\203_Task2.csproj.CoreCompileInputs.cache

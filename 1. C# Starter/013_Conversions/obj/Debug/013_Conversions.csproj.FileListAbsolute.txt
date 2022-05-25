@@ -1,0 +1,7 @@
+D:\MyProgram\013_Conversions\obj\Debug\013_Conversions.csprojAssemblyReference.cache
+D:\MyProgram\013_Conversions\obj\Debug\013_Conversions.csproj.CoreCompileInputs.cache
+D:\MyProgram\013_Conversions\bin\Debug\013_Conversions.exe.config
+D:\MyProgram\013_Conversions\bin\Debug\013_Conversions.exe
+D:\MyProgram\013_Conversions\bin\Debug\013_Conversions.pdb
+D:\MyProgram\013_Conversions\obj\Debug\013_Conversions.exe
+D:\MyProgram\013_Conversions\obj\Debug\013_Conversions.pdb

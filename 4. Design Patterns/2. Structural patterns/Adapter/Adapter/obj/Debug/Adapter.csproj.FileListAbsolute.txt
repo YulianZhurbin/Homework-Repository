@@ -1,0 +1,7 @@
+E:\ЮВЖ\Programming\Ноmework\4.Patterns\Structural patterns\Adapter\Adapter\bin\Debug\Adapter.exe.config
+E:\ЮВЖ\Programming\Ноmework\4.Patterns\Structural patterns\Adapter\Adapter\bin\Debug\Adapter.exe
+E:\ЮВЖ\Programming\Ноmework\4.Patterns\Structural patterns\Adapter\Adapter\bin\Debug\Adapter.pdb
+E:\ЮВЖ\Programming\Ноmework\4.Patterns\Structural patterns\Adapter\Adapter\obj\Debug\Adapter.csproj.AssemblyReference.cache
+E:\ЮВЖ\Programming\Ноmework\4.Patterns\Structural patterns\Adapter\Adapter\obj\Debug\Adapter.csproj.CoreCompileInputs.cache
+E:\ЮВЖ\Programming\Ноmework\4.Patterns\Structural patterns\Adapter\Adapter\obj\Debug\Adapter.exe
+E:\ЮВЖ\Programming\Ноmework\4.Patterns\Structural patterns\Adapter\Adapter\obj\Debug\Adapter.pdb

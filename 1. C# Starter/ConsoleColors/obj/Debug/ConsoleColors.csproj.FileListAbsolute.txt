@@ -1,0 +1,14 @@
+D:\MyProgram\ConsoleColors\obj\Debug\ConsoleColors.csprojAssemblyReference.cache
+D:\MyProgram\ConsoleColors\obj\Debug\ConsoleColors.csproj.CoreCompileInputs.cache
+D:\MyProgram\ConsoleColors\bin\Debug\ConsoleColors.exe.config
+D:\MyProgram\ConsoleColors\bin\Debug\ConsoleColors.exe
+D:\MyProgram\ConsoleColors\bin\Debug\ConsoleColors.pdb
+D:\MyProgram\ConsoleColors\obj\Debug\ConsoleColors.exe
+D:\MyProgram\ConsoleColors\obj\Debug\ConsoleColors.pdb
+C:\Julian\Programming\Ноmework\1.C#\MyPrograms\ConsoleColors\bin\Debug\ConsoleColors.exe.config
+C:\Julian\Programming\Ноmework\1.C#\MyPrograms\ConsoleColors\bin\Debug\ConsoleColors.exe
+C:\Julian\Programming\Ноmework\1.C#\MyPrograms\ConsoleColors\bin\Debug\ConsoleColors.pdb
+C:\Julian\Programming\Ноmework\1.C#\MyPrograms\ConsoleColors\obj\Debug\ConsoleColors.csproj.AssemblyReference.cache
+C:\Julian\Programming\Ноmework\1.C#\MyPrograms\ConsoleColors\obj\Debug\ConsoleColors.csproj.CoreCompileInputs.cache
+C:\Julian\Programming\Ноmework\1.C#\MyPrograms\ConsoleColors\obj\Debug\ConsoleColors.exe
+C:\Julian\Programming\Ноmework\1.C#\MyPrograms\ConsoleColors\obj\Debug\ConsoleColors.pdb

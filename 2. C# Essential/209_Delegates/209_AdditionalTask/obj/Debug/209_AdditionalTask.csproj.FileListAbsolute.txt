@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\209_Delegates\209_AdditionalTask\bin\Debug\209_AdditionalTask.exe.config
+C:\Users\user\source\repos\209_Delegates\209_AdditionalTask\bin\Debug\209_AdditionalTask.exe
+C:\Users\user\source\repos\209_Delegates\209_AdditionalTask\bin\Debug\209_AdditionalTask.pdb
+C:\Users\user\source\repos\209_Delegates\209_AdditionalTask\obj\Debug\209_AdditionalTask.csprojAssemblyReference.cache
+C:\Users\user\source\repos\209_Delegates\209_AdditionalTask\obj\Debug\209_AdditionalTask.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\209_Delegates\209_AdditionalTask\obj\Debug\209_AdditionalTask.exe
+C:\Users\user\source\repos\209_Delegates\209_AdditionalTask\obj\Debug\209_AdditionalTask.pdb

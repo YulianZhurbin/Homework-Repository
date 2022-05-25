@@ -1,0 +1,7 @@
+D:\MyProgram\009_Escape Sequence\bin\Debug\009_Escape Sequence.exe.config
+D:\MyProgram\009_Escape Sequence\bin\Debug\009_Escape Sequence.exe
+D:\MyProgram\009_Escape Sequence\bin\Debug\009_Escape Sequence.pdb
+D:\MyProgram\009_Escape Sequence\obj\Debug\009_Escape Sequence.csprojAssemblyReference.cache
+D:\MyProgram\009_Escape Sequence\obj\Debug\009_Escape Sequence.csproj.CoreCompileInputs.cache
+D:\MyProgram\009_Escape Sequence\obj\Debug\009_Escape Sequence.exe
+D:\MyProgram\009_Escape Sequence\obj\Debug\009_Escape Sequence.pdb

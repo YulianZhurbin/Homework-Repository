@@ -1,0 +1,5 @@
+D:\MyPrograms\218_Namespaces\218_Task2_Library\bin\Debug\218_Task2_Library.dll
+D:\MyPrograms\218_Namespaces\218_Task2_Library\bin\Debug\218_Task2_Library.pdb
+D:\MyPrograms\218_Namespaces\218_Task2_Library\obj\Debug\218_Task2_Library.csproj.CoreCompileInputs.cache
+D:\MyPrograms\218_Namespaces\218_Task2_Library\obj\Debug\218_Task2_Library.dll
+D:\MyPrograms\218_Namespaces\218_Task2_Library\obj\Debug\218_Task2_Library.pdb

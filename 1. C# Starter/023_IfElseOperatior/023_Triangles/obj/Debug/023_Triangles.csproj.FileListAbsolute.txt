@@ -1,0 +1,7 @@
+D:\MyProgram\023_IfElseOperatior\023_Triangles\bin\Debug\023_Triangles.exe.config
+D:\MyProgram\023_IfElseOperatior\023_Triangles\bin\Debug\023_Triangles.exe
+D:\MyProgram\023_IfElseOperatior\023_Triangles\bin\Debug\023_Triangles.pdb
+D:\MyProgram\023_IfElseOperatior\023_Triangles\obj\Debug\023_Triangles.csprojAssemblyReference.cache
+D:\MyProgram\023_IfElseOperatior\023_Triangles\obj\Debug\023_Triangles.csproj.CoreCompileInputs.cache
+D:\MyProgram\023_IfElseOperatior\023_Triangles\obj\Debug\023_Triangles.exe
+D:\MyProgram\023_IfElseOperatior\023_Triangles\obj\Debug\023_Triangles.pdb

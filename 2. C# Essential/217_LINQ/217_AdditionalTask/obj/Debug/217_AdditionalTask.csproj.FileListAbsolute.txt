@@ -1,0 +1,7 @@
+D:\MyPrograms\217_LINQ\217_AdditionalTask\bin\Debug\217_AdditionalTask.exe.config
+D:\MyPrograms\217_LINQ\217_AdditionalTask\bin\Debug\217_AdditionalTask.exe
+D:\MyPrograms\217_LINQ\217_AdditionalTask\bin\Debug\217_AdditionalTask.pdb
+D:\MyPrograms\217_LINQ\217_AdditionalTask\obj\Debug\217_AdditionalTask.csprojAssemblyReference.cache
+D:\MyPrograms\217_LINQ\217_AdditionalTask\obj\Debug\217_AdditionalTask.csproj.CoreCompileInputs.cache
+D:\MyPrograms\217_LINQ\217_AdditionalTask\obj\Debug\217_AdditionalTask.exe
+D:\MyPrograms\217_LINQ\217_AdditionalTask\obj\Debug\217_AdditionalTask.pdb

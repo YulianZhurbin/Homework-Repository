@@ -1,0 +1,7 @@
+D:\MyPrograms\210_Generics\210_AdditionalTask\bin\Debug\210_AdditionalTask.exe.config
+D:\MyPrograms\210_Generics\210_AdditionalTask\bin\Debug\210_AdditionalTask.exe
+D:\MyPrograms\210_Generics\210_AdditionalTask\bin\Debug\210_AdditionalTask.pdb
+D:\MyPrograms\210_Generics\210_AdditionalTask\obj\Debug\210_AdditionalTask.csprojAssemblyReference.cache
+D:\MyPrograms\210_Generics\210_AdditionalTask\obj\Debug\210_AdditionalTask.csproj.CoreCompileInputs.cache
+D:\MyPrograms\210_Generics\210_AdditionalTask\obj\Debug\210_AdditionalTask.exe
+D:\MyPrograms\210_Generics\210_AdditionalTask\obj\Debug\210_AdditionalTask.pdb

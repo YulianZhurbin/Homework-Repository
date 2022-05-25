@@ -1,0 +1,7 @@
+E:\ЮВЖ\Programming\Ноmework\4.Patterns\Behavioral patterns\Strategy\Strategy\obj\Debug\Strategy.csproj.AssemblyReference.cache
+E:\ЮВЖ\Programming\Ноmework\4.Patterns\Behavioral patterns\Strategy\Strategy\obj\Debug\Strategy.csproj.CoreCompileInputs.cache
+E:\ЮВЖ\Programming\Ноmework\4.Patterns\Behavioral patterns\Strategy\Strategy\bin\Debug\Strategy.exe.config
+E:\ЮВЖ\Programming\Ноmework\4.Patterns\Behavioral patterns\Strategy\Strategy\bin\Debug\Strategy.exe
+E:\ЮВЖ\Programming\Ноmework\4.Patterns\Behavioral patterns\Strategy\Strategy\bin\Debug\Strategy.pdb
+E:\ЮВЖ\Programming\Ноmework\4.Patterns\Behavioral patterns\Strategy\Strategy\obj\Debug\Strategy.exe
+E:\ЮВЖ\Programming\Ноmework\4.Patterns\Behavioral patterns\Strategy\Strategy\obj\Debug\Strategy.pdb

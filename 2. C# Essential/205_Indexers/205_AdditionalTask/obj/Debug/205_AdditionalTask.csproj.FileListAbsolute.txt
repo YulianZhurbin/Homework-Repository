@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\205_Indexers\205_AdditionalTask\bin\Debug\205_AdditionalTask.exe.config
+C:\Users\user\source\repos\205_Indexers\205_AdditionalTask\bin\Debug\205_AdditionalTask.exe
+C:\Users\user\source\repos\205_Indexers\205_AdditionalTask\bin\Debug\205_AdditionalTask.pdb
+C:\Users\user\source\repos\205_Indexers\205_AdditionalTask\obj\Debug\205_AdditionalTask.csprojAssemblyReference.cache
+C:\Users\user\source\repos\205_Indexers\205_AdditionalTask\obj\Debug\205_AdditionalTask.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\205_Indexers\205_AdditionalTask\obj\Debug\205_AdditionalTask.exe
+C:\Users\user\source\repos\205_Indexers\205_AdditionalTask\obj\Debug\205_AdditionalTask.pdb

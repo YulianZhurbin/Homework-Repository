@@ -1,0 +1,7 @@
+E:\ЮВЖ\Programming\Ноmework\4.Patterns\Creational patterns\FactoryMethod\bin\Debug\FactoryMethod.exe.config
+E:\ЮВЖ\Programming\Ноmework\4.Patterns\Creational patterns\FactoryMethod\bin\Debug\FactoryMethod.exe
+E:\ЮВЖ\Programming\Ноmework\4.Patterns\Creational patterns\FactoryMethod\bin\Debug\FactoryMethod.pdb
+E:\ЮВЖ\Programming\Ноmework\4.Patterns\Creational patterns\FactoryMethod\obj\Debug\FactoryMethod.csproj.AssemblyReference.cache
+E:\ЮВЖ\Programming\Ноmework\4.Patterns\Creational patterns\FactoryMethod\obj\Debug\FactoryMethod.csproj.CoreCompileInputs.cache
+E:\ЮВЖ\Programming\Ноmework\4.Patterns\Creational patterns\FactoryMethod\obj\Debug\FactoryMethod.exe
+E:\ЮВЖ\Programming\Ноmework\4.Patterns\Creational patterns\FactoryMethod\obj\Debug\FactoryMethod.pdb

@@ -1,0 +1,7 @@
+D:\MyPrograms\207_Structs\207_Task2\bin\Debug\207_Task2.exe.config
+D:\MyPrograms\207_Structs\207_Task2\bin\Debug\207_Task2.exe
+D:\MyPrograms\207_Structs\207_Task2\bin\Debug\207_Task2.pdb
+D:\MyPrograms\207_Structs\207_Task2\obj\Debug\207_Task2.csprojAssemblyReference.cache
+D:\MyPrograms\207_Structs\207_Task2\obj\Debug\207_Task2.csproj.CoreCompileInputs.cache
+D:\MyPrograms\207_Structs\207_Task2\obj\Debug\207_Task2.exe
+D:\MyPrograms\207_Structs\207_Task2\obj\Debug\207_Task2.pdb

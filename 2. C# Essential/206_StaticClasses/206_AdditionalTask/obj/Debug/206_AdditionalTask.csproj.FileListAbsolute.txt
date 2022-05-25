@@ -1,0 +1,7 @@
+D:\MyPrograms\206_StaticClasses\206_AdditionalTask\bin\Debug\206_AdditionalTask.exe.config
+D:\MyPrograms\206_StaticClasses\206_AdditionalTask\bin\Debug\206_AdditionalTask.exe
+D:\MyPrograms\206_StaticClasses\206_AdditionalTask\bin\Debug\206_AdditionalTask.pdb
+D:\MyPrograms\206_StaticClasses\206_AdditionalTask\obj\Debug\206_AdditionalTask.csprojAssemblyReference.cache
+D:\MyPrograms\206_StaticClasses\206_AdditionalTask\obj\Debug\206_AdditionalTask.csproj.CoreCompileInputs.cache
+D:\MyPrograms\206_StaticClasses\206_AdditionalTask\obj\Debug\206_AdditionalTask.exe
+D:\MyPrograms\206_StaticClasses\206_AdditionalTask\obj\Debug\206_AdditionalTask.pdb

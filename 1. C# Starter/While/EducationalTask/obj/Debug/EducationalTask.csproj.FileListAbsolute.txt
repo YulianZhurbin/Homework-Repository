@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\While\EducationalTask\bin\Debug\EducationalTask.exe.config
+C:\Users\user\source\repos\While\EducationalTask\bin\Debug\EducationalTask.exe
+C:\Users\user\source\repos\While\EducationalTask\bin\Debug\EducationalTask.pdb
+C:\Users\user\source\repos\While\EducationalTask\obj\Debug\EducationalTask.csprojAssemblyReference.cache
+C:\Users\user\source\repos\While\EducationalTask\obj\Debug\EducationalTask.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\While\EducationalTask\obj\Debug\EducationalTask.exe
+C:\Users\user\source\repos\While\EducationalTask\obj\Debug\EducationalTask.pdb
+C:\Julian\Git\HW\MyPrograms\While\EducationalTask\bin\Debug\EducationalTask.exe.config
+C:\Julian\Git\HW\MyPrograms\While\EducationalTask\bin\Debug\EducationalTask.exe
+C:\Julian\Git\HW\MyPrograms\While\EducationalTask\bin\Debug\EducationalTask.pdb
+C:\Julian\Git\HW\MyPrograms\While\EducationalTask\obj\Debug\EducationalTask.csproj.AssemblyReference.cache
+C:\Julian\Git\HW\MyPrograms\While\EducationalTask\obj\Debug\EducationalTask.csproj.CoreCompileInputs.cache
+C:\Julian\Git\HW\MyPrograms\While\EducationalTask\obj\Debug\EducationalTask.exe
+C:\Julian\Git\HW\MyPrograms\While\EducationalTask\obj\Debug\EducationalTask.pdb

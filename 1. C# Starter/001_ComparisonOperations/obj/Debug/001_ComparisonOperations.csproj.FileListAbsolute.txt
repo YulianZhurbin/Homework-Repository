@@ -1,0 +1,7 @@
+D:\MyProgram\001_ComparisonOperations\bin\Debug\001_ComparisonOperations.exe.config
+D:\MyProgram\001_ComparisonOperations\bin\Debug\001_ComparisonOperations.exe
+D:\MyProgram\001_ComparisonOperations\bin\Debug\001_ComparisonOperations.pdb
+D:\MyProgram\001_ComparisonOperations\obj\Debug\001_ComparisonOperations.csprojAssemblyReference.cache
+D:\MyProgram\001_ComparisonOperations\obj\Debug\001_ComparisonOperations.csproj.CoreCompileInputs.cache
+D:\MyProgram\001_ComparisonOperations\obj\Debug\001_ComparisonOperations.exe
+D:\MyProgram\001_ComparisonOperations\obj\Debug\001_ComparisonOperations.pdb

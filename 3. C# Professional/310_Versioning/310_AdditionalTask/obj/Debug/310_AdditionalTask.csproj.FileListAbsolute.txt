@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\310_Versioning\310_AdditionalTask\obj\Debug\310_AdditionalTask.csprojAssemblyReference.cache
+C:\Users\user\source\repos\310_Versioning\310_AdditionalTask\obj\Debug\310_AdditionalTask.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\310_Versioning\310_AdditionalTask\bin\Debug\310_AdditionalTask.exe.config
+C:\Users\user\source\repos\310_Versioning\310_AdditionalTask\bin\Debug\310_AdditionalTask.exe
+C:\Users\user\source\repos\310_Versioning\310_AdditionalTask\bin\Debug\310_AdditionalTask.pdb
+C:\Users\user\source\repos\310_Versioning\310_AdditionalTask\obj\Debug\310_AdditionalTask.exe
+C:\Users\user\source\repos\310_Versioning\310_AdditionalTask\obj\Debug\310_AdditionalTask.pdb

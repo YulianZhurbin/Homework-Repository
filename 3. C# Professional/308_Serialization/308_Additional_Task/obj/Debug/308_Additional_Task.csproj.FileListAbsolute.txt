@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\308_Serialization\308_Additional_Task\bin\Debug\308_Additional_Task.exe.config
+C:\Users\user\source\repos\308_Serialization\308_Additional_Task\bin\Debug\308_Additional_Task.exe
+C:\Users\user\source\repos\308_Serialization\308_Additional_Task\bin\Debug\308_Additional_Task.pdb
+C:\Users\user\source\repos\308_Serialization\308_Additional_Task\obj\Debug\308_Additional_Task.csprojAssemblyReference.cache
+C:\Users\user\source\repos\308_Serialization\308_Additional_Task\obj\Debug\308_Additional_Task.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\308_Serialization\308_Additional_Task\obj\Debug\308_Additional_Task.exe
+C:\Users\user\source\repos\308_Serialization\308_Additional_Task\obj\Debug\308_Additional_Task.pdb

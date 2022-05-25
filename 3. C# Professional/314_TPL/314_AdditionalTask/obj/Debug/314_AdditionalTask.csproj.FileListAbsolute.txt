@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\314_TPL\314_AdditionalTask\bin\Debug\314_AdditionalTask.exe.config
+C:\Users\user\source\repos\314_TPL\314_AdditionalTask\bin\Debug\314_AdditionalTask.exe
+C:\Users\user\source\repos\314_TPL\314_AdditionalTask\bin\Debug\314_AdditionalTask.pdb
+C:\Users\user\source\repos\314_TPL\314_AdditionalTask\obj\Debug\314_AdditionalTask.csprojAssemblyReference.cache
+C:\Users\user\source\repos\314_TPL\314_AdditionalTask\obj\Debug\314_AdditionalTask.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\314_TPL\314_AdditionalTask\obj\Debug\314_AdditionalTask.exe
+C:\Users\user\source\repos\314_TPL\314_AdditionalTask\obj\Debug\314_AdditionalTask.pdb

@@ -1,0 +1,7 @@
+D:\MyProgram\004_FormatSpecifiers\obj\Debug\004_FormatSpecifiers.csprojAssemblyReference.cache
+D:\MyProgram\004_FormatSpecifiers\obj\Debug\004_FormatSpecifiers.csproj.CoreCompileInputs.cache
+D:\MyProgram\004_FormatSpecifiers\bin\Debug\004_FormatSpecifiers.exe.config
+D:\MyProgram\004_FormatSpecifiers\bin\Debug\004_FormatSpecifiers.exe
+D:\MyProgram\004_FormatSpecifiers\bin\Debug\004_FormatSpecifiers.pdb
+D:\MyProgram\004_FormatSpecifiers\obj\Debug\004_FormatSpecifiers.exe
+D:\MyProgram\004_FormatSpecifiers\obj\Debug\004_FormatSpecifiers.pdb

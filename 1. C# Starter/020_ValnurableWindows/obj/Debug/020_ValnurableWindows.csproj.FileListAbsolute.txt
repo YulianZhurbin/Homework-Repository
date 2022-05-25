@@ -1,0 +1,7 @@
+D:\MyProgram\020_ValnurableWindows\bin\Debug\020_ValnurableWindows.exe.config
+D:\MyProgram\020_ValnurableWindows\bin\Debug\020_ValnurableWindows.exe
+D:\MyProgram\020_ValnurableWindows\bin\Debug\020_ValnurableWindows.pdb
+D:\MyProgram\020_ValnurableWindows\obj\Debug\020_ValnurableWindows.csprojAssemblyReference.cache
+D:\MyProgram\020_ValnurableWindows\obj\Debug\020_ValnurableWindows.csproj.CoreCompileInputs.cache
+D:\MyProgram\020_ValnurableWindows\obj\Debug\020_ValnurableWindows.exe
+D:\MyProgram\020_ValnurableWindows\obj\Debug\020_ValnurableWindows.pdb

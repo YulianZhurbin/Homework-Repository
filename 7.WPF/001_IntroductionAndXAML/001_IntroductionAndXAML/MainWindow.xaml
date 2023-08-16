@@ -1,0 +1,40 @@
+﻿<Window x:Class="_001_IntroductionAndXAML.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_001_IntroductionAndXAML"
+        mc:Ignorable="d"
+        Title="Authentication" Height="450" Width="800">
+    
+    <Window.Background>
+        <ImageBrush ImageSource="Images/BackgroundForLesson1.jpg" />
+    </Window.Background>
+    
+    <Grid>
+        <TextBlock 
+                   Margin="330,92,332,293"
+                   Foreground="Black"
+                   Text="Enter your login" />
+
+        <TextBox Name="loginBoxName"
+                 Margin="330,132,332,253"
+                 Text=""
+                 AcceptsTab="false"/>
+
+        <TextBlock 
+                   Margin="330,207,315,178"
+                   Foreground="Black"
+                   Text="Enter the password"/>
+
+        <TextBox x:Name="passwordBoxName"
+            Margin="330,247,332,138"
+            Text=""
+            AcceptsTab="false"/>
+
+        <Button
+                Content="Confirm"
+                Margin="330,309,332,77"
+                Click="Button_Click"/>
+    </Grid>
+</Window>

@@ -1,0 +1,15 @@
+C:\Julian\Programming\Ноmework\7.WPF\001_IntroductionAndXAML\001_IntroductionAndXAML\bin\Debug\001_IntroductionAndXAML.exe.config
+C:\Julian\Programming\Ноmework\7.WPF\001_IntroductionAndXAML\001_IntroductionAndXAML\bin\Debug\001_IntroductionAndXAML.exe
+C:\Julian\Programming\Ноmework\7.WPF\001_IntroductionAndXAML\001_IntroductionAndXAML\bin\Debug\001_IntroductionAndXAML.pdb
+C:\Julian\Programming\Ноmework\7.WPF\001_IntroductionAndXAML\001_IntroductionAndXAML\obj\Debug\001_IntroductionAndXAML.csproj.AssemblyReference.cache
+C:\Julian\Programming\Ноmework\7.WPF\001_IntroductionAndXAML\001_IntroductionAndXAML\obj\Debug\MainWindow.g.cs
+C:\Julian\Programming\Ноmework\7.WPF\001_IntroductionAndXAML\001_IntroductionAndXAML\obj\Debug\App.g.cs
+C:\Julian\Programming\Ноmework\7.WPF\001_IntroductionAndXAML\001_IntroductionAndXAML\obj\Debug\001_IntroductionAndXAML_MarkupCompile.cache
+C:\Julian\Programming\Ноmework\7.WPF\001_IntroductionAndXAML\001_IntroductionAndXAML\obj\Debug\001_IntroductionAndXAML_MarkupCompile.lref
+C:\Julian\Programming\Ноmework\7.WPF\001_IntroductionAndXAML\001_IntroductionAndXAML\obj\Debug\MainWindow.baml
+C:\Julian\Programming\Ноmework\7.WPF\001_IntroductionAndXAML\001_IntroductionAndXAML\obj\Debug\001_IntroductionAndXAML.g.resources
+C:\Julian\Programming\Ноmework\7.WPF\001_IntroductionAndXAML\001_IntroductionAndXAML\obj\Debug\_001_IntroductionAndXAML.Properties.Resources.resources
+C:\Julian\Programming\Ноmework\7.WPF\001_IntroductionAndXAML\001_IntroductionAndXAML\obj\Debug\001_IntroductionAndXAML.csproj.GenerateResource.cache
+C:\Julian\Programming\Ноmework\7.WPF\001_IntroductionAndXAML\001_IntroductionAndXAML\obj\Debug\001_IntroductionAndXAML.csproj.CoreCompileInputs.cache
+C:\Julian\Programming\Ноmework\7.WPF\001_IntroductionAndXAML\001_IntroductionAndXAML\obj\Debug\001_IntroductionAndXAML.exe
+C:\Julian\Programming\Ноmework\7.WPF\001_IntroductionAndXAML\001_IntroductionAndXAML\obj\Debug\001_IntroductionAndXAML.pdb

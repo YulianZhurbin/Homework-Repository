@@ -1,0 +1,39 @@
+﻿<Window x:Class="Task1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Task1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="500" Width="500"
+        AllowsTransparency="True"
+        Background="Transparent"
+        WindowStyle="None"
+        MouseLeftButtonDown="Window_MouseLeftButtonDown">
+    
+    <Border Background="black"
+            CornerRadius="250,250,250,250"
+            BorderThickness="4"
+            BorderBrush="White">
+        <Grid>
+            <TextBlock FontSize="50" Foreground="White" Width="150" Height="90" Margin="175,46,167,356">8 ball</TextBlock>
+            <Button
+                Background="Transparent"
+                FontSize="20"
+                Width="30"
+                Height="30"
+                Content="X"
+                Name="closeButton"
+                Click="closeButton_Click" RenderTransformOrigin="7.828,-7.255" Margin="452,10,10,452"/>
+            
+            <Border BorderThickness="2" BorderBrush="White" Margin="141,155,142,249">
+                <TextBox Name="textBox" VerticalScrollBarVisibility="Auto" Background="LightBlue" MouseEnter="textBox_MouseEnter" FontSize="20" TextWrapping="Wrap"></TextBox>
+            </Border>
+            
+            <Border BorderThickness="2" BorderBrush="White" Margin="167,346,167,106">
+                <Button Name="sendQuestionButton" Click="sendQuestionButton_Click" FontSize="15" Background="LightBlue">Ask the question</Button>
+            </Border>
+        </Grid>
+    </Border>
+
+</Window>

@@ -1,0 +1,15 @@
+C:\Julian\Programming\Ноmework\7.WPF\004_Content\Task1\bin\Debug\Task1.exe.config
+C:\Julian\Programming\Ноmework\7.WPF\004_Content\Task1\bin\Debug\Task1.exe
+C:\Julian\Programming\Ноmework\7.WPF\004_Content\Task1\bin\Debug\Task1.pdb
+C:\Julian\Programming\Ноmework\7.WPF\004_Content\Task1\obj\Debug\Task1.csproj.AssemblyReference.cache
+C:\Julian\Programming\Ноmework\7.WPF\004_Content\Task1\obj\Debug\MainWindow.g.cs
+C:\Julian\Programming\Ноmework\7.WPF\004_Content\Task1\obj\Debug\App.g.cs
+C:\Julian\Programming\Ноmework\7.WPF\004_Content\Task1\obj\Debug\Task1_MarkupCompile.cache
+C:\Julian\Programming\Ноmework\7.WPF\004_Content\Task1\obj\Debug\Task1_MarkupCompile.lref
+C:\Julian\Programming\Ноmework\7.WPF\004_Content\Task1\obj\Debug\MainWindow.baml
+C:\Julian\Programming\Ноmework\7.WPF\004_Content\Task1\obj\Debug\Task1.g.resources
+C:\Julian\Programming\Ноmework\7.WPF\004_Content\Task1\obj\Debug\Task1.Properties.Resources.resources
+C:\Julian\Programming\Ноmework\7.WPF\004_Content\Task1\obj\Debug\Task1.csproj.GenerateResource.cache
+C:\Julian\Programming\Ноmework\7.WPF\004_Content\Task1\obj\Debug\Task1.csproj.CoreCompileInputs.cache
+C:\Julian\Programming\Ноmework\7.WPF\004_Content\Task1\obj\Debug\Task1.exe
+C:\Julian\Programming\Ноmework\7.WPF\004_Content\Task1\obj\Debug\Task1.pdb

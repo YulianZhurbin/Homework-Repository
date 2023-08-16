@@ -1,0 +1,30 @@
+﻿<Window x:Class="Task2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"                   
+        Title="Task2" Height="450" Width="800" FontSize="20"
+        xmlns:myControls="clr-namespace:Task2">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        
+        <StackPanel Grid.Row="0" Orientation="Horizontal" HorizontalAlignment="Center" Margin="30" >
+            <TextBlock VerticalAlignment="Center" Margin="10">Monthly Income</TextBlock>
+            <TextBox Name="monthlyIncomeTextBox" Margin="10" Padding="5" VerticalAlignment="Center" TextChanged="MonthlyIncomeTextBox_TextChanged">0</TextBox>
+            <TextBlock VerticalAlignment="Center" Margin="1">$</TextBlock>
+        </StackPanel>
+        
+        <Slider Name="slider1" Height="25" Grid.Row="1" Margin="20"  ValueChanged="Slider1_ValueChanged"></Slider>
+        
+        <StackPanel Grid.Row="2" Orientation="Horizontal" HorizontalAlignment="Center" Margin="30" >
+            <TextBlock VerticalAlignment="Center" Margin="10">Allowed Credit</TextBlock>
+            <TextBlock Name="allowedCreditTextBlock" Margin="10" Padding="5" VerticalAlignment="Center">0</TextBlock>
+            <TextBlock VerticalAlignment="Center" Margin="1">$</TextBlock>
+        </StackPanel>
+
+        <myControls:MyFirstControl x:Name="myFirstControl1" Data="{Binding ElementName=slider1, Path=Value}">
+        </myControls:MyFirstControl>
+    </Grid>
+</Window>

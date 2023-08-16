@@ -1,0 +1,6 @@
+C:\Julian\Programming\Ноmework\7.WPF\009_Resources\LocalizatiorHelper\bin\Debug\LocalizatiorHelper.dll
+C:\Julian\Programming\Ноmework\7.WPF\009_Resources\LocalizatiorHelper\bin\Debug\LocalizatiorHelper.pdb
+C:\Julian\Programming\Ноmework\7.WPF\009_Resources\LocalizatiorHelper\obj\Debug\LocalizatiorHelper.csproj.AssemblyReference.cache
+C:\Julian\Programming\Ноmework\7.WPF\009_Resources\LocalizatiorHelper\obj\Debug\LocalizatiorHelper.csproj.CoreCompileInputs.cache
+C:\Julian\Programming\Ноmework\7.WPF\009_Resources\LocalizatiorHelper\obj\Debug\LocalizatiorHelper.dll
+C:\Julian\Programming\Ноmework\7.WPF\009_Resources\LocalizatiorHelper\obj\Debug\LocalizatiorHelper.pdb

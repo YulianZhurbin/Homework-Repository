@@ -1,0 +1,16 @@
+C:\Julian\Programming\Ноmework\7.WPF\020_MVVM\AdditionalTask\bin\Debug\AdditionalTask.exe.config
+C:\Julian\Programming\Ноmework\7.WPF\020_MVVM\AdditionalTask\bin\Debug\AdditionalTask.exe
+C:\Julian\Programming\Ноmework\7.WPF\020_MVVM\AdditionalTask\bin\Debug\AdditionalTask.pdb
+C:\Julian\Programming\Ноmework\7.WPF\020_MVVM\AdditionalTask\obj\Debug\AdditionalTask.csproj.AssemblyReference.cache
+C:\Julian\Programming\Ноmework\7.WPF\020_MVVM\AdditionalTask\obj\Debug\View\MainWindow.g.cs
+C:\Julian\Programming\Ноmework\7.WPF\020_MVVM\AdditionalTask\obj\Debug\App.g.cs
+C:\Julian\Programming\Ноmework\7.WPF\020_MVVM\AdditionalTask\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Julian\Programming\Ноmework\7.WPF\020_MVVM\AdditionalTask\obj\Debug\AdditionalTask_MarkupCompile.cache
+C:\Julian\Programming\Ноmework\7.WPF\020_MVVM\AdditionalTask\obj\Debug\AdditionalTask_MarkupCompile.lref
+C:\Julian\Programming\Ноmework\7.WPF\020_MVVM\AdditionalTask\obj\Debug\View\MainWindow.baml
+C:\Julian\Programming\Ноmework\7.WPF\020_MVVM\AdditionalTask\obj\Debug\AdditionalTask.g.resources
+C:\Julian\Programming\Ноmework\7.WPF\020_MVVM\AdditionalTask\obj\Debug\AdditionalTask.Properties.Resources.resources
+C:\Julian\Programming\Ноmework\7.WPF\020_MVVM\AdditionalTask\obj\Debug\AdditionalTask.csproj.GenerateResource.cache
+C:\Julian\Programming\Ноmework\7.WPF\020_MVVM\AdditionalTask\obj\Debug\AdditionalTask.csproj.CoreCompileInputs.cache
+C:\Julian\Programming\Ноmework\7.WPF\020_MVVM\AdditionalTask\obj\Debug\AdditionalTask.exe
+C:\Julian\Programming\Ноmework\7.WPF\020_MVVM\AdditionalTask\obj\Debug\AdditionalTask.pdb

@@ -1,0 +1,13 @@
+C:\Julian\Programming\Ноmework\7.WPF\018_MediaAndUserControls\WpfControlLibrary1\bin\Debug\WpfControlLibrary1.dll
+C:\Julian\Programming\Ноmework\7.WPF\018_MediaAndUserControls\WpfControlLibrary1\bin\Debug\WpfControlLibrary1.pdb
+C:\Julian\Programming\Ноmework\7.WPF\018_MediaAndUserControls\WpfControlLibrary1\obj\Debug\UserControl1.g.cs
+C:\Julian\Programming\Ноmework\7.WPF\018_MediaAndUserControls\WpfControlLibrary1\obj\Debug\WpfControlLibrary1_MarkupCompile.cache
+C:\Julian\Programming\Ноmework\7.WPF\018_MediaAndUserControls\WpfControlLibrary1\obj\Debug\WpfControlLibrary1_MarkupCompile.lref
+C:\Julian\Programming\Ноmework\7.WPF\018_MediaAndUserControls\WpfControlLibrary1\obj\Debug\UserControl1.baml
+C:\Julian\Programming\Ноmework\7.WPF\018_MediaAndUserControls\WpfControlLibrary1\obj\Debug\WpfControlLibrary1.g.resources
+C:\Julian\Programming\Ноmework\7.WPF\018_MediaAndUserControls\WpfControlLibrary1\obj\Debug\WpfControlLibrary1.Properties.Resources.resources
+C:\Julian\Programming\Ноmework\7.WPF\018_MediaAndUserControls\WpfControlLibrary1\obj\Debug\WpfControlLibrary1.csproj.GenerateResource.cache
+C:\Julian\Programming\Ноmework\7.WPF\018_MediaAndUserControls\WpfControlLibrary1\obj\Debug\WpfControlLibrary1.csproj.CoreCompileInputs.cache
+C:\Julian\Programming\Ноmework\7.WPF\018_MediaAndUserControls\WpfControlLibrary1\obj\Debug\WpfControlLibrary1.dll
+C:\Julian\Programming\Ноmework\7.WPF\018_MediaAndUserControls\WpfControlLibrary1\obj\Debug\WpfControlLibrary1.pdb
+C:\Julian\Programming\Ноmework\7.WPF\018_MediaAndUserControls\WpfControlLibrary1\obj\Debug\WpfControlLibrary1.csproj.AssemblyReference.cache

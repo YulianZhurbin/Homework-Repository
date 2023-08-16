@@ -1,0 +1,15 @@
+C:\Julian\Programming\Ноmework\7.WPF\002_Layouts\Task2\obj\Debug\Task2.csproj.AssemblyReference.cache
+C:\Julian\Programming\Ноmework\7.WPF\002_Layouts\Task2\obj\Debug\MainWindow.g.cs
+C:\Julian\Programming\Ноmework\7.WPF\002_Layouts\Task2\obj\Debug\App.g.cs
+C:\Julian\Programming\Ноmework\7.WPF\002_Layouts\Task2\obj\Debug\Task2_MarkupCompile.cache
+C:\Julian\Programming\Ноmework\7.WPF\002_Layouts\Task2\obj\Debug\Task2_MarkupCompile.lref
+C:\Julian\Programming\Ноmework\7.WPF\002_Layouts\Task2\bin\Debug\Task2.exe.config
+C:\Julian\Programming\Ноmework\7.WPF\002_Layouts\Task2\bin\Debug\Task2.exe
+C:\Julian\Programming\Ноmework\7.WPF\002_Layouts\Task2\bin\Debug\Task2.pdb
+C:\Julian\Programming\Ноmework\7.WPF\002_Layouts\Task2\obj\Debug\MainWindow.baml
+C:\Julian\Programming\Ноmework\7.WPF\002_Layouts\Task2\obj\Debug\Task2.g.resources
+C:\Julian\Programming\Ноmework\7.WPF\002_Layouts\Task2\obj\Debug\Task2.Properties.Resources.resources
+C:\Julian\Programming\Ноmework\7.WPF\002_Layouts\Task2\obj\Debug\Task2.csproj.GenerateResource.cache
+C:\Julian\Programming\Ноmework\7.WPF\002_Layouts\Task2\obj\Debug\Task2.csproj.CoreCompileInputs.cache
+C:\Julian\Programming\Ноmework\7.WPF\002_Layouts\Task2\obj\Debug\Task2.exe
+C:\Julian\Programming\Ноmework\7.WPF\002_Layouts\Task2\obj\Debug\Task2.pdb

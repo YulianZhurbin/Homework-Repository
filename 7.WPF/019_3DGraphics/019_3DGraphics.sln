@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdditionalTask", "AdditionalTask\AdditionalTask.csproj", "{0ACDD974-5801-4F75-83E1-EF1A78390F4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3DTools", "_3DTools\3DTools\3DTools.csproj", "{5F603892-DE40-4246-A969-1C6717AFE35D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task1", "Task1\Task1.csproj", "{B48D3614-6965-4522-B15F-696896289169}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0ACDD974-5801-4F75-83E1-EF1A78390F4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0ACDD974-5801-4F75-83E1-EF1A78390F4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0ACDD974-5801-4F75-83E1-EF1A78390F4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0ACDD974-5801-4F75-83E1-EF1A78390F4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F603892-DE40-4246-A969-1C6717AFE35D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F603892-DE40-4246-A969-1C6717AFE35D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F603892-DE40-4246-A969-1C6717AFE35D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F603892-DE40-4246-A969-1C6717AFE35D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B48D3614-6965-4522-B15F-696896289169}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B48D3614-6965-4522-B15F-696896289169}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B48D3614-6965-4522-B15F-696896289169}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B48D3614-6965-4522-B15F-696896289169}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {961E5D0F-3996-4C44-A40A-3080EE9D6556}
+	EndGlobalSection
+EndGlobal

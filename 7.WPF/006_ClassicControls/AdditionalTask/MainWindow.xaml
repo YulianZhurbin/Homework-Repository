@@ -1,0 +1,39 @@
+﻿<Window x:Class="AdditionalTask.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AdditionalTask"
+        mc:Ignorable="d"
+        Title="Text editor" Height="450" Width="800" FontSize="15">
+    <Grid>
+
+        <Grid.Background>
+            <ImageBrush ImageSource="Background.jpg" Stretch="UniformToFill"/>
+        </Grid.Background>
+        
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="3*"></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <TextBox Name="textBox" Margin="5" Padding="5" VerticalScrollBarVisibility="Auto" TextWrapping="Wrap" Grid.RowSpan="2" FontSize="40" Opacity="0.5">Some sample text</TextBox>
+        
+        <GroupBox Margin="5" Padding="5" Header="Fonts" Grid.Column="1" Opacity="0.5">
+            <StackPanel Margin="5">
+                <RadioButton Name="inconsolataRadioButton" Checked="InconsolataRadioButton_Checked">Inconsolata</RadioButton>
+                <RadioButton Name="openSansRadioButton" Checked="OpenSansRadioButton_Checked">Open Sans</RadioButton>
+                <RadioButton Name="playFairDisplayRadioButton" Checked="PlayFairDisplayRadioButton_Checked">Playfair Display</RadioButton>
+            </StackPanel>
+        </GroupBox>
+
+        <DockPanel Grid.Column="1"  Grid.Row="1" Margin="5" Opacity="0.85">
+            <Button VerticalAlignment="Bottom" Margin="10" Padding="5" Click="Button_Click">Clear</Button>
+        </DockPanel>
+    </Grid>
+</Window>

@@ -1,0 +1,15 @@
+C:\Julian\Programming\Ноmework\7.WPF\002_Layouts\002_Layouts\bin\Debug\002_Layouts.exe.config
+C:\Julian\Programming\Ноmework\7.WPF\002_Layouts\002_Layouts\bin\Debug\002_Layouts.exe
+C:\Julian\Programming\Ноmework\7.WPF\002_Layouts\002_Layouts\bin\Debug\002_Layouts.pdb
+C:\Julian\Programming\Ноmework\7.WPF\002_Layouts\002_Layouts\obj\Debug\002_Layouts.csproj.AssemblyReference.cache
+C:\Julian\Programming\Ноmework\7.WPF\002_Layouts\002_Layouts\obj\Debug\MainWindow.g.cs
+C:\Julian\Programming\Ноmework\7.WPF\002_Layouts\002_Layouts\obj\Debug\App.g.cs
+C:\Julian\Programming\Ноmework\7.WPF\002_Layouts\002_Layouts\obj\Debug\002_Layouts_MarkupCompile.cache
+C:\Julian\Programming\Ноmework\7.WPF\002_Layouts\002_Layouts\obj\Debug\002_Layouts_MarkupCompile.lref
+C:\Julian\Programming\Ноmework\7.WPF\002_Layouts\002_Layouts\obj\Debug\MainWindow.baml
+C:\Julian\Programming\Ноmework\7.WPF\002_Layouts\002_Layouts\obj\Debug\002_Layouts.g.resources
+C:\Julian\Programming\Ноmework\7.WPF\002_Layouts\002_Layouts\obj\Debug\_002_Layouts.Properties.Resources.resources
+C:\Julian\Programming\Ноmework\7.WPF\002_Layouts\002_Layouts\obj\Debug\002_Layouts.csproj.GenerateResource.cache
+C:\Julian\Programming\Ноmework\7.WPF\002_Layouts\002_Layouts\obj\Debug\002_Layouts.csproj.CoreCompileInputs.cache
+C:\Julian\Programming\Ноmework\7.WPF\002_Layouts\002_Layouts\obj\Debug\002_Layouts.exe
+C:\Julian\Programming\Ноmework\7.WPF\002_Layouts\002_Layouts\obj\Debug\002_Layouts.pdb
